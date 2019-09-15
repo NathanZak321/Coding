@@ -1,0 +1,2 @@
+D:\Week03\TheConversationAllDressedUp\obj\Debug\TheConversationAllDressedUp.csprojAssemblyReference.cache
+D:\Week03\TheConversationAllDressedUp\obj\Debug\TheConversationAllDressedUp.csproj.CoreCompileInputs.cache
