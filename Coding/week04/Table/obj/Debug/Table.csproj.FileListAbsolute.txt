@@ -1,0 +1,7 @@
+C:\Users\natha\Desktop\Coding\week04\Table\bin\Debug\Table.exe.config
+C:\Users\natha\Desktop\Coding\week04\Table\bin\Debug\Table.exe
+C:\Users\natha\Desktop\Coding\week04\Table\bin\Debug\Table.pdb
+C:\Users\natha\Desktop\Coding\week04\Table\obj\Debug\Table.csprojAssemblyReference.cache
+C:\Users\natha\Desktop\Coding\week04\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\Coding\week04\Table\obj\Debug\Table.exe
+C:\Users\natha\Desktop\Coding\week04\Table\obj\Debug\Table.pdb
